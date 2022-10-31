@@ -3,6 +3,5 @@
 
 Un archivo de prueba con cosas. 
 
-**Alejandro Sáez**, Git Lover
-
+**Alejandro Sáez**, Git Lover & Larry Plotter Lover
 
